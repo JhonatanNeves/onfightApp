@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">onfightApp</string>
+    <string name="menu_home">Ínicio</string>
+    <string name="menu_about">About</string>
 </resources>
